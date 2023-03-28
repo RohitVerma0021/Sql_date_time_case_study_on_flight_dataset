@@ -53,7 +53,8 @@ To use this project, follow these steps:
 6. Run the SQL queries to analyze the flights data and view the results in [name of results file or folder].
 
 ## Credits
-The flights dataset used in this project was obtained from [name of dataset source], and the SQL queries and analysis were performed by ***Me [Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)***.
+The flights dataset used in this project was obtained from [Flight](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/flights_cleaned%20-%20flights_cleaned.csv), and the SQL queries and analysis were performed by ***Me [Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)***.
+
 
 
 
