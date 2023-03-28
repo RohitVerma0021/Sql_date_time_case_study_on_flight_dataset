@@ -1,7 +1,10 @@
 # SQL Date Time Case Study on Flights Dataset in MySQL
 This project is a case study on a flights dataset using MySQL to explore and analyze the data using date and time functions and get some outcome [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRohitVerma0021%2FSql_date_time_case_study_on_flight_dataset%2Fmain%2FCase%2520Study%2520Outcomes.docx&wdOrigin=BROWSELINK)..
+
+![](https://www.globaltechsourcing.com/wp-content/uploads/2020/05/iStock-482076715-1536x1034.jpg)
 ## Dataset
 The flights dataset used in this project contains data on flights with around 10030, including information such as flight date, origin and destination airports, departure and arrival times, and various other flight details. The dataset can be found at [Flight data](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/cleand_laptop_data.csv)
+
 ## SQL Queries
 ***Several SQL queries were used to analyze the flights dataset in MySQL, including:***
 #### Query 1: ```
