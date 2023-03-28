@@ -37,12 +37,17 @@ To analyze the flights data, several date and time functions were used in MySQL,
 - [DATE_ADD()](https://dev.mysql.com/doc/heatwave/en/mys-hw-date-functions.html): to add or subtract a specific amount of time from a date or time value
 
 ## Results
-The results of the SQL queries and analysis can be found in [name of results file or folder], including [description of what the results show and any insights gained from the analysis].
+The results of the SQL queries and analysis can be found in [Case study outcome](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRohitVerma0021%2FSql_date_time_case_study_on_flight_dataset%2Fmain%2FCase%2520Study%2520Outcomes.docx&wdOrigin=BROWSELINK).
+
+
+
 ## Requirements
 To run the SQL queries and analysis on the flights dataset in MySQL, the following software and tools are required:
 
-- MySQL server
-- MySQL client, such as MySQL Workbench or the MySQL command-line client
+- [MySQL server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [MySQL client](https://dev.mysql.com/downloads/workbench/), such as [MySQL Workbench](https://dev.mysql.com/downloads/windows/installer/8.0.html) or the MySQL command-line client.
+
+
 ## Usage
 To use this project, follow these steps:
 1. Download the flights dataset from [Flight data](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/cleand_laptop_data.csv) and save it to your computer.
@@ -50,7 +55,9 @@ To use this project, follow these steps:
 3. Create a new database and import the flights dataset into a new table.
 4. Copy and paste the SQL queries from [Sql_date_time_case_study_on_flight](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/Sql_date_time_case_study_on_flight_dataset.sql) into MySQL Workbench or the MySQL command-line client.
 5. Connect to the flights dataset in MySQL.
-6. Run the SQL queries to analyze the flights data and view the results in [name of results file or folder].
+6. Run the SQL queries to analyze the flights data.
+
+
 
 ## Credits
 The flights dataset used in this project was obtained from [Flight](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/flights_cleaned%20-%20flights_cleaned.csv), and the SQL queries and analysis were performed by ***Me [Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)***.
