@@ -59,7 +59,7 @@ To use this project, follow these steps:
 2. Open MySQL Workbench or the MySQL command-line client.
 3. Create a new database and import the flights dataset into a new table.
 4. Copy and paste the SQL queries from [Sql_date_time_case_study_on_flight](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/Sql_date_time_case_study_on_flight_dataset.sql) into MySQL Workbench or the MySQL command-line client.
-5. Connect to the flights dataset in MySQL.
+5. Connect to the flights dataset in **MySQL**.
 6. Run the SQL queries to analyze the flights data.
 
 
