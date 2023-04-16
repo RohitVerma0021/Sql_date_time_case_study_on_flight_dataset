@@ -66,7 +66,7 @@ To use this project, follow these steps:
 
 ## Credits
 The flights dataset used in this project was obtained from [Flight](https://github.com/RohitVerma0021/Sql_date_time_case_study_on_flight_dataset/blob/main/flights_cleaned%20-%20flights_cleaned.csv), and the SQL queries and analysis were performed by ***Me [Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)***.
-## NOTHIIB
+
 
 
 
